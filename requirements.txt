@@ -1,0 +1,7 @@
+google-generativeai
+python-dotenv
+diffusers
+torch
+transformers
+accelerate
+flask[async]
