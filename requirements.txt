@@ -4,4 +4,4 @@ diffusers
 torch
 transformers
 accelerate
-flask[async]
+flask
